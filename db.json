@@ -17,6 +17,48 @@
       "email": "asdf@gmail.coms",
       "password": "asdfasdf",
       "id": 7
+    },
+    {
+      "nickname": "ㅁㄴㅇㄹ",
+      "email": "bomaru83@naver.com",
+      "password": "asdfasdf",
+      "confirmPassword": "asdfasdf",
+      "id": 8
+    },
+    {
+      "nickname": "ㅁㄴㅇㄹ",
+      "email": "bomaru83@naver.com",
+      "password": "asdfasdf",
+      "confirmPassword": "asdfasdf",
+      "id": 9
+    },
+    {
+      "nickname": "율율",
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "confirmPassword": "asdfasdf",
+      "id": 10
+    },
+    {
+      "nickname": "율율",
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "confirmPassword": "asdfasdf",
+      "id": 11
+    },
+    {
+      "nickname": "율율",
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "confirmPassword": "asdfasdf",
+      "id": 12
+    },
+    {
+      "nickname": "율율",
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "confirmPassword": "asdfasdf",
+      "id": 13
     }
   ],
   "login": [
@@ -24,6 +66,101 @@
       "id": 1,
       "email": "asdf@gmail.com",
       "password": "asdfasdf"
+    },
+    {
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "id": 2
+    },
+    {
+      "email": "sample1@sample.com",
+      "password": "qwerty1234",
+      "id": 3
+    },
+    {
+      "email": "sample@sample.com",
+      "password": "qwerty1234",
+      "id": 4
+    },
+    {
+      "email": "abc@abc.com",
+      "password": "asdf123456",
+      "id": 5
+    },
+    {
+      "email": "asdf@asdf.com",
+      "password": "asdf123456",
+      "id": 6
+    },
+    {
+      "email": "bomaru83@naver.com",
+      "password": "ㅁㄴdfasdf",
+      "id": 7
+    },
+    {
+      "email": "bomaru83@naver.co",
+      "password": "asdfasdf",
+      "id": 8
+    },
+    {
+      "email": "bomaru83@naver.com",
+      "password": "asdfasdf",
+      "id": 9
+    },
+    {
+      "email": "asdf@asdf.com",
+      "password": "asdf12345",
+      "id": 10
+    },
+    {
+      "email": "abc@gmail.co",
+      "password": "asdfggjk",
+      "id": 11
+    },
+    {
+      "email": "sample@sample.com",
+      "password": "qwerty1234",
+      "id": 12
+    },
+    {
+      "email": "sample@sample.com",
+      "password": "qwerty1234",
+      "id": 13
+    },
+    {
+      "email": "Asdf@asdf.com",
+      "password": "asdf123456",
+      "id": 14
+    },
+    {
+      "email": "bomaru83@naver.com",
+      "password": "asdfasdf",
+      "id": 15
+    },
+    {
+      "email": "spfesi0401@codeit.com",
+      "password": "asdfasdf",
+      "id": 16
+    },
+    {
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "id": 17
+    },
+    {
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "id": 18
+    },
+    {
+      "email": "asdf@gmail.com",
+      "password": "password",
+      "id": 19
+    },
+    {
+      "email": "asdf@gmail.com",
+      "password": "asdfasdf",
+      "id": 20
     }
   ],
   "user": [
@@ -37,8 +174,8 @@
   "crews": [
     {
       "id": 1,
-      "type": "유산소",
-      "subType": "달리기",
+      "type": "유산소/근력",
+      "subType": "러닝",
       "name": "매일 달릴사람!",
       "location": "서울특별시",
       "detailedLocation": "강남구",
@@ -57,16 +194,16 @@
     },
     {
       "id": 2,
-      "type": "유산소",
-      "subType": "달리기",
-      "name": "2같이 달릴사람 구함",
-      "location": "광주",
-      "detailedLocation": "어디구 어디로",
+      "type": "유산소/근력",
+      "subType": "러닝",
+      "name": "광교호수공원 러닝크루 구합니다",
+      "location": "경기도",
+      "detailedLocation": "수원시",
       "participantCount": 10,
       "capacity": 20,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://img.hankyung.com/photo/202209/f8b44f8bbe2a703573e176387b1296a0.jpg"
         }
       ],
       "createdBy": 1,
@@ -77,16 +214,16 @@
     },
     {
       "id": 3,
-      "type": "유산소",
-      "subType": "달리기",
-      "name": "3같이 달릴사람 구함",
-      "location": "부산",
-      "detailedLocation": "어디구 어디로",
+      "type": "유연성",
+      "subType": "요가",
+      "name": "힐링 요가 크루입니다",
+      "location": "부산광역시",
+      "detailedLocation": "남구",
       "participantCount": 1,
       "capacity": 5,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://cdn.imweb.me/thumbnail/20230607/82966d0f2d0e1.png"
         }
       ],
       "createdBy": 2,
@@ -97,16 +234,16 @@
     },
     {
       "id": 4,
-      "type": "유산소",
-      "subType": "달리기",
-      "name": "4같이 달릴사람 구함",
-      "location": "부산",
-      "detailedLocation": "어디구 어디로",
+      "type": "유산소/근력",
+      "subType": "등산",
+      "name": "30대 인천 등산모임",
+      "location": "인천광역시",
+      "detailedLocation": "부평구",
       "participantCount": 1,
       "capacity": 20,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://i.namu.wiki/i/z4SlzF00Hi7dzXpkkj_mdNnXyY2WTHD6hmxzCks5e6PxQ7KwHosVlzQatl42tPiui_EICYUhL-iEBxxbRQUN7w.webp"
         }
       ],
       "createdBy": 2,
@@ -117,16 +254,16 @@
     },
     {
       "id": 5,
-      "type": "유산소",
-      "subType": "달리기",
-      "name": "5같이 달릴사람 구함",
-      "location": "부산",
-      "detailedLocation": "어디구 어디로",
+      "type": "구기종목",
+      "subType": "축구",
+      "name": "축구할사람 모집합니다",
+      "location": "서울특별시",
+      "detailedLocation": "마포구",
       "participantCount": 1,
       "capacity": 20,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://www.ksponco.or.kr/sports/img/olparksoccer/know_3.png"
         }
       ],
       "createdBy": 2,
@@ -137,16 +274,16 @@
     },
     {
       "id": 6,
-      "type": "유산소",
-      "subType": "달리기",
-      "name": "6같이 달릴사람 구함",
-      "location": "광주",
-      "detailedLocation": "어디구 어디로",
+      "type": "유산소/근력",
+      "subType": "클라이밍",
+      "name": "한계에 도전하는 클라이밍 모임",
+      "location": "경기도",
+      "detailedLocation": "수원시",
       "participantCount": 10,
       "capacity": 20,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33qODhVM0rvTqrzWHaeLe3ESODcSHNiYrsg&s"
         }
       ],
       "createdBy": 1,
@@ -157,16 +294,16 @@
     },
     {
       "id": 7,
-      "type": "유산소",
-      "subType": "수영",
-      "name": "7엄청긴크루이름엄청긴크루이름엄청긴크루이름엄청긴크루이름",
+      "type": "유연성",
+      "subType": "폴댄스",
+      "name": "폴킴 아닙니다 폴댄스",
       "location": "경기도",
-      "detailedLocation": "어디구 어디로",
+      "detailedLocation": "고양시",
       "participantCount": 20,
       "capacity": 24,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://i.pinimg.com/474x/59/55/b0/5955b0be1eb8c9bd8204f339db1befac.jpg"
         }
       ],
       "createdBy": 1,
@@ -177,16 +314,16 @@
     },
     {
       "id": 8,
-      "type": "유산소",
-      "subType": "달리기",
-      "name": "8같이 달릴사람 구함",
-      "location": "광주",
-      "detailedLocation": "어디구 어디로",
+      "type": "기타",
+      "subType": "서핑",
+      "name": "같이 서핑하실분",
+      "location": "부산광역시",
+      "detailedLocation": "해운대구",
       "participantCount": 10,
       "capacity": 20,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://i.pinimg.com/736x/84/aa/da/84aada701c873c7451b38ec44b725dad.jpg"
         }
       ],
       "createdBy": 1,
@@ -197,16 +334,16 @@
     },
     {
       "id": 9,
-      "type": "유산소",
-      "subType": "달리기",
-      "name": "9같이 달릴사람 구함",
-      "location": "부산",
-      "detailedLocation": "어디구 어디로",
+      "type": "기타",
+      "subType": "아이스스케이트",
+      "name": "빙글빙글 스케이트",
+      "location": "경기도",
+      "detailedLocation": "수원시",
       "participantCount": 1,
       "capacity": 5,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://img.freepik.com/free-photo/portrait-person-ice-skating-outdoors-winter-time_23-2151396912.jpg"
         }
       ],
       "createdBy": 2,
@@ -217,16 +354,16 @@
     },
     {
       "id": 10,
-      "type": "유산소",
-      "subType": "수영",
-      "name": "10엄청긴크루이름엄청긴크루이름엄청긴크루이름엄청긴크루이름",
-      "location": "경기도",
-      "detailedLocation": "어디구 어디로",
+      "type": "유산소/근력",
+      "subType": "헬스",
+      "name": "건강한 신체에 건강한 정신",
+      "location": "서울특별시",
+      "detailedLocation": "강북구",
       "participantCount": 20,
       "capacity": 24,
       "images": [
         {
-          "imagePath": "https://i.pinimg.com/564x/f8/8d/c5/f88dc5b857caf6c303ae5ef9dd12e7fb.jpg"
+          "imagePath": "https://img.freepik.com/free-photo/gym-with-indoor-cycling-equipment_23-2149270210.jpg"
         }
       ],
       "createdBy": 1,
@@ -250,7 +387,10 @@
       "isCaptain": true,
       "isCrew": true,
       "CrewMembers": [
-        { "id": 1, "nickname": "이름1" },
+        {
+          "id": 1,
+          "nickname": "이름1"
+        },
         {
           "id": 2,
           "nickname": "이름2",
@@ -335,7 +475,7 @@
       "location": "서울시 강남구 역삼동 오피스타워 3층",
       "currentCount": 3,
       "totalCount": 10,
-      "imageUrl": "https://www.dabur.com/Blogs/Doshas/Importance%20and%20Benefits%20of%20Yoga%201020x450.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1440549800803-9e2d063c9d00?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "isLiked": false,
       "isGatherCaptain": false,
       "isParticipant": true,
